@@ -8,8 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/78842487/119930862-f01fb780-bf88-11eb-87aa-b65cd196310e.png)
 
-# Vector klasės ir std::vector atminties v2.0 atlikimo laiko priklausymas nuo konteinerio:
+# Vector klasės ir std::vector atminties v2.0 atlikimo laikas:
 
-![image](https://user-images.githubusercontent.com/78842487/119931349-e3e82a00-bf89-11eb-9c8a-3f498c9069ce.png)
-
+![image](https://user-images.githubusercontent.com/78842487/119937889-32022b00-bf94-11eb-9f03-f57efa4a909b.png)
 
